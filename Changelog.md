@@ -1,3 +1,9 @@
+# 3.5.3
+   * ActiveModel and ActiveSupport version bump
+
+# 3.5.2
+   * Fix ELO bin length 13 detection
+
 # 3.5.1
    * Adding some Brazilian Bins
 
@@ -5,10 +11,10 @@
    * Unionpay and Maestro range updates, PR #88
    * Hipercard range updates , PR #79
    * Visa and Discover length fix, PR #81
-   
+
 # 3.4.0
    * Elo support enhanced, PR #75
-   
+
 # 3.3.0
    * Added support for MIR card brand
 
